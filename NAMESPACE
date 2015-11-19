@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+#export(Fmntd)
+
+import(ape, picante, geiger, fBasics, SDMTools, vegan, FD, phytools)
+
+#S3method(methodName, className)

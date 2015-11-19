@@ -1,0 +1,13 @@
+Package: lefse
+Type: Package
+Title: Phylogenetic and Functional Analyses for Ecology
+Version: 0.5
+Date: 2015-11-19
+Author: Nathan G. Swenson
+Maintainer: Nathan G. Swenson <swenson@umd.edu>
+Description: Utilizing phylogenetic and functional information for the analyses of ecological datasets. The analyses include methods for quantifying the phylogenetic and functional diversity of assemblages.
+License: GPL-2 | GPL-3
+Depends: R (>= 2.10)
+Imports: ape, picante, geiger, fBasics, SDMTools, vegan, FD, phytools
+NeedsCompilation: no
+Packaged: 2015-11-19 22:48:17 UTC; nathanswenson
